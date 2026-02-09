@@ -3,5 +3,14 @@
     "allow": [
       "Bash(python create_mcaddon.py:*)"
     ]
-  }
+  },
+  "enabledMcpjsonServers": [
+    "github",
+    "playwright",
+    "filesystem",
+    "context7",
+    "semgrep",
+    "repo-mode-launch"
+  ],
+  "enableAllProjectMcpServers": true
 }
