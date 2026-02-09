@@ -1,0 +1,27 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "emerald:emerald_leggings"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "EEE",
+      "E E",
+      "E E"
+    ],
+    "key": {
+      "E": {
+        "item": "minecraft:cobblestone"
+      }
+    },
+    "unlock": [
+      {
+        "item": "minecraft:cobblestone"
+      }
+    ],
+    "result": {
+      "item": "emerald:emerald_leggings"
+    }
+  }
+}

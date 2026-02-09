@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Emerald Armor",
+    "description": "Adds powerful Emerald Armor - 10x stronger than Diamond!",
+    "uuid": "8f7e6d5c-4b3a-2918-0fed-cba987654321",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 19, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "1a2b3c4d-5e6f-7a8b-9c0d-e1f2a3b4c5d6",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "2b3c4d5e-6f7a-8b9c-0d1e-f2a3b4c5d6e7",
+      "version": [1, 0, 0]
+    }
+  ]
+}

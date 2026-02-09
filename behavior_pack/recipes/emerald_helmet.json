@@ -1,0 +1,27 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "emerald:emerald_helmet"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "EEE",
+      "E E",
+      "   "
+    ],
+    "key": {
+      "E": {
+        "item": "minecraft:cobblestone"
+      }
+    },
+    "unlock": [
+      {
+        "item": "minecraft:cobblestone"
+      }
+    ],
+    "result": {
+      "item": "emerald:emerald_helmet"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "emerald:emerald_chestplate"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "E E",
+      "EEE",
+      "EEE"
+    ],
+    "key": {
+      "E": {
+        "item": "minecraft:cobblestone"
+      }
+    },
+    "unlock": [
+      {
+        "item": "minecraft:cobblestone"
+      }
+    ],
+    "result": {
+      "item": "emerald:emerald_chestplate"
+    }
+  }
+}

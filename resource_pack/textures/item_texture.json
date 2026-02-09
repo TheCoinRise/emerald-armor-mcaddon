@@ -1,0 +1,18 @@
+{
+  "resource_pack_name": "Emerald Armor",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "emerald_helmet": {
+      "textures": "textures/items/emerald_helmet"
+    },
+    "emerald_chestplate": {
+      "textures": "textures/items/emerald_chestplate"
+    },
+    "emerald_leggings": {
+      "textures": "textures/items/emerald_leggings"
+    },
+    "emerald_boots": {
+      "textures": "textures/items/emerald_boots"
+    }
+  }
+}
