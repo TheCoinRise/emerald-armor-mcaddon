@@ -1,5 +1,7 @@
 # Emerald Armor Addon
 
+![Emerald Armor](emerald-logo.png)
+
 A Minecraft Bedrock Edition addon that adds powerful Emerald Armor - **10x stronger than Diamond!**
 
 ## Features
