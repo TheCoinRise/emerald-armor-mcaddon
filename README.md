@@ -11,7 +11,7 @@ A Minecraft Bedrock Edition addon that adds powerful Emerald Armor - **10x stron
 - **10x Diamond Durability**: 3,630 - 5,280 durability per piece
 - **Green Emerald Textures**: Beautiful green armor design
 - **Craftable**: Made from Cobblestone
-- **Repairable**: Repair with Emeralds at an anvil
+- **Repairable**: Repair with Cobblestone at an anvil
 - **Built-in Fire Resistance**: Reduced damage from fire, lava, and magma
 
 ## Armor Stats
